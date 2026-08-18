@@ -55,8 +55,8 @@ I enjoy solving real-world problems through clean, scalable code and building pr
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats-eight-pied.vercel.app/api?username=ROHANDJ&show_icons=true&theme=dark&hide_border=true&count_private=true" />
-  <img height="165" src="https://github-readme-stats-eight-pied.vercel.app/api/top-langs/?username=ROHANDJ&layout=compact&theme=dark&hide_border=true" />
+  <img height="165" src="https://github-readme-stats-sigma-pink.vercel.app/api?username=ROHANDJ&show_icons=true&theme=dark&hide_border=true&count_private=true" />
+  <img height="165" src="https://github-readme-stats-sigma-pink.vercel.app/api/top-langs/?username=ROHANDJ&layout=compact&theme=dark&hide_border=true" />
 </p>
 
 <p align="center">
@@ -72,7 +72,7 @@ I enjoy solving real-world problems through clean, scalable code and building pr
 ### 🏆 Trophies
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=ROHANDJ&theme=darkhub&no-frame=true&row=1&column=6&margin-w=8" />
+  <img src="https://github-trophies.vercel.app/?username=ROHANDJ&theme=darkhub&no-frame=true&row=1&column=6&margin-w=8" />
 </p>
 
 ---

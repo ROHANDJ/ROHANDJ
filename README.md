@@ -7,7 +7,7 @@
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=ROHANDJ&label=Profile%20Views&color=3DDC84&style=flat" alt="profile views" />
+  <img src="https://komarev.com/ghpvc/?username=ROHANDJ&label=Profile+Views&color=3DDC84&style=flat" alt="profile views" />
   <img src="https://img.shields.io/github/followers/ROHANDJ?label=Followers&style=flat&color=3DDC84" alt="followers" />
 </p>
 
@@ -55,8 +55,8 @@ I enjoy solving real-world problems through clean, scalable code and building pr
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats-eight-theta.vercel.app/api?username=ROHANDJ&show_icons=true&theme=dark&hide_border=true&count_private=true" />
-  <img height="165" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=ROHANDJ&layout=compact&theme=dark&hide_border=true" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=ROHANDJ&show_icons=true&theme=dark&hide_border=true&count_private=true" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ROHANDJ&layout=compact&theme=dark&hide_border=true" />
 </p>
 
 <p align="center">

@@ -48,7 +48,7 @@ I enjoy solving real-world problems through clean, scalable code and building pr
 ### 🌐 Connect with Me
 
 - 🔗 Portfolio: [rohandj.netlify.app](https://rohandj.netlify.app)
-- 📧 Email: rohandj1020@gmail.com
+- 📧 Email: rohandj200@gmail.com
 
 ---
 
